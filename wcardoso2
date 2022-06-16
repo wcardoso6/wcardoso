@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>GAMES & DICAS </title>
+    <meta charset="utf-8">
+    <style>
+        body{
+            background-color: yellow;
+            color: black;
+            font-family: arial,black
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+    <a href="ATIVIDADE2.HTML" target="_blank"> </a>
+    <header>
+        <h1>RESIDENT EVIL 4 DICAS</h1>
+        <br/>
+        <nav>
+    </header>
+
+    <main>
+        <section id="sessao_principal">
+            <h2></h2>
+            <article>
+                <h3><p> EXTRAS DESBLOQUEADOS AO TERMINAR O JOGO PELA PRIMEIRA VEZ:<br>
+                    <br>The Mercenaries 
+                    <br>Assignment Ada
+                    <br>Separate Ways (exceto no GameCube)
+                    <br>Dificuldade Professional
+                    <br>Rocket Launche
+                    <br>Matilda
+
+                </p></p>
+                </p> 
+            </h3>
+            
+                <img src="DICAS1.jpg" width="1366" height="600">
+            </article>
+            <article>
+                <h3>ROUPAS ESPECIAIS:</h3>
+                <img src="dicas2.png" width="800">
+            </article>
+            <h3><br>Após terminar o game, carregue o save criado e você verá uma tela de opções onde pode escolher entre a roupa padrão e as extras.
+                <br>
+                <br>O Special Set 1 é obtido ao se terminar o game pela primeira vez e deixa Leon com a roupa de Resident Evil 2, Ashley com um conjunto branco de top e calça e Ada usa a roupa tática preta do modo “Assignment Ada”.
+                <br>
+                <br>
+                <br>O Special Set 2 é obtido ao se finalizar o modo Separate Ways (não está disponível na versão para GameCube). O set deixa Leon com a roupa de mafioso que destrava animações secretas quando ele usa a Chicago Typewriter (um recarregamento faz com que ele ajuste o chapéu e quatro recarregamentos fazem com que ele lance o chapéu para o alto), além de reduzir o dano sofrido pelo personagem; Ashley usa uma armadura especial que a mantém protegida dos inimigos.
+                </h3> 
+                <img src="dicas3.jpg" width="1366" height="600">
+        </section>
+        <article>
+            <h3>ARMAS<br>
+               <br> Matilda e Rocket Launcher infinita: Termine o game uma vez. As armas estarão disponíveis para compra com o Merchant (Matilda: 70 mil pts; RL infinita: 1 milhão de pts).<br>
+               <br>Handcannon: Para habilitar esta arma, consiga cinco estrelas com todos os personagens no modo The Mercenaries em todos os cenários. Ela estará disponível para compra com o Merchant, gratuitamente. Para deixá-la com munição infinita, você deve fazer todos os upgrades da arma.<br>
+               <br>Chicago Typewriter na campanha: Termine o Modo Assignment Ada (GameCube) ou Separate Ways (demais versões). A arma estará à venda com o Merchant por 1 milhão de pts.<br>
+               <br>Chicago Typerwriter no modo Separate Ways: Termine o modo Assignment Ada (exceto no GameCube).<br>
+               <br>P.R.L. 412: Termine o game no modo Profissional (exceto no GameCube).<br>
+               
+            </h3>
+            <img src="dicas4.png" width="800">
+            <h3>
+                <br>HABILITAR PERSONAGENS NO MODO THE MERCENARIES<br>
+                Ada Wong: Obtenha quatro estrelas no cenário da Vila;<br>
+                Hunk: Obtenha quatro estrelas no cenário da Ilha;<br>
+                Jack Krauser: Obtenha quatro estrelas no cenário do Castelo;<br>
+                Albert Wesker: Obtenha quatro estrelas no cenário Waterfront.<br>
+
+
+            </h3>
+            
+    </main>
+    <br/>
+    <br/>
+    <section id="sessao_2">
+        <div class="divisao">
+
+            <h2>Resident Evil 4 remake é confirmado oficialmente com trailer e chega em 2023.</h2>
+            <img src="remake.jpg" width="400">
+        </div>
+        <br>
+        <div>
+            
+    </section>
+    <section id="contato">
+        <h2>Entre em contato</h2>
+        <p>Preencha o formulário abaixo para poder entrar em contato!</p>
+        <form method="get">
+            <div>
+                <span>Nome:</span>
+                <input type="text" name="nome">
+            </div>
+            <div>
+                <span>Email:</span>
+                <input type="email" name="email">
+            </div>
+            <div>
+                <span>Mensagem:</span>
+                <textarea></textarea>
+            </div>
+            <div>
+                <input type="submit" value="enviar">
+            </div>
+        </form>
+    </section>
+
+    <footer>
+        <p>Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
