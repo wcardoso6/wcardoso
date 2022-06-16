@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>GAMES & DICAS </title>
+    <meta charset="utf-8">
+    <style>
+        body{
+            background-color: yellow;
+            color: black;
+            font-family: arial,black
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+    <a href="ATIVIDADE2.HTML" target="_blank"> </a>
+    <header>
+        <h1>RESIDENT EVIL 4 </h1>
+        <br/>
+        <nav>
+    </header>
+
+    <main>
+        <section id="sessao_principal">
+            <h2></h2>
+            <article>
+                <h3><p> A história de Resident Evil 4 segue o agente especial do governo dos Estados Unidos Leon S. Kennedy, que é enviado em uma missão para resgatar Ashley Graham, filha do presidente americano, que foi raptada por uma seita macabra. Ele viaja para uma área rural da Espanha, onde luta contra hordas de moradores violentos e monstros mutantes , e se reúne com a misteriosa espiã Ada Wong.<br>
+                    <br>Seis anos após os acontecimentos de Resident Evil, o ex-policial Leon Scott Kennedy é enviado em uma missão para resgatar Ashley Graham, filha do presidente dos Estados Unidos, que foi raptada por uma seita misteriosa. Ele viaja para uma aldeia rural na Europa, onde encontra um grupo de moradores violentos que dedicam suas vidas para os Los Illuminados ( "os iluminados" em espanhol), oe sequestrou Ashley. 
+                </p></p>
+                </p> 
+            </h3>
+            
+                <img src="res2.webp" width="1366" height="600">
+            </article>
+            <article>
+                <h3>Na vila, Leon é capturado por seu chefe, Bitores Mendez, que injeta nele um parasita controlador de mentes conhecido como Las Plagas. Ele é mantido amarrado em um cativeiro juntamente com Luis Sera, um ex-pesquisador dos Illuminados. Os dois trabalham juntos para escapar, mas em seguida seguem caminhos separados. Leon descobre que Ashley está sendo mantida presa em uma capela, e consegue resgatá-la. Ambos fogem do local após Osmund Saddler, líder da seita, revelar seus planos para usar as Plagas injetadas em Ashley para causar um desastre nos Estados Unidos quando ela retornar.</h3>
+                <img src="res4.jpg" width="800">
+            </article>
+            <h3>LEON S. KENNEDY: O policial que teve de enfrentar zumbis na infectada Raccoon City em seu primeiro dia de serviço agora é um agente do governo, contratado para resgatar a filha do presidente dos EUA, que foi sequestrada e levada a um pequeno e aparentemente pacífico vilarejo localizado em algum lugar na Europa. Porém, Leon se vê no meio de uma terrível conspiração envolvendo a garota e velhos conhecidos seus e, para escapar, deverá enfrentar mais uma vez criaturas modificadas por uma misteriosa infecção.
+                </h3> 
+                <img src="re43.jpg" width="1366" height="600">
+        </section>
+        <article>
+            <h3>Resident Evil 4 marca uma mudança de rumos na série. Totalmente diferente dos games anteriores, este jogo representou uma verdadeira revolução nos games de ação, trazendo tecnologia de ponta e interatividade nunca antes visto e seu sucesso acabou por pavimentar o caminho para as futuras continuações de Resident Evil, no sentido de serem mais voltadas para a ação.</h3>
+            <img src="ashley.jpg" width="800">
+            <h3>
+                A filha do presidente dos EUA acabou sequestrada e levada até o vilarejo, como parte inicial de um plano arquitetado por Osmund Saddler. Ashley é extremamente mimada e exige cuidados especiais. À medida que Leon avança pelo local, a garota pode acabar sendo até mesmo um obstáculo para ele, que deve ao mesmo tempo deixá-la longe dos inimigos e tentar manter-se vivo para tirá-los de lá.
+            </h3>
+            <img src="ada.jpg" width="800">
+            <h3>
+                ADA WONG: A espiã que aparentemente havia morrido em Raccoon City volta com um objetivo específico em relação às Plagas que são utilizadas no local. Munida de equipamentos de alta tecnologia e com um grande preparo físico, a espiã chega a auxiliar Leon em alguns momentos, sem deixar claro sua posição em relação ao agente.
+            </h3>
+            <img src="sadler.jpg" width="800">
+            <h3>
+                OSMUND SADDLER: É o líder do culto Los Illuminados e a grande mente por trás do plano que visava inicialmente o sequestro de Ashley Graham. Lord Saddler, como é chamado por seus subordinados, possui total controle sobre as Plagas e sobre os outros humanos infectados, os Ganados.
+            </h3>
+        </h3>
+        <img src="ramon.jfif" width="800">
+        <h3>
+            RAMON SALAZAR: O bizarro dono do castelo que abriga o culto Los Illuminados tem apenas 20 anos e é o último membro de sua nobre família. Está sempre ao lado de seus guarda-costas e é extremamente provocador. A existência das Plagas está ligada a ele e ao imenso castelo, fazendo-o cedê-las para Saddler utilizá-las como parte de seu plano.
+
+        </h3>
+        <img src="krauser.jpg" width="800">
+        <h3>
+            JACK KRAUSER: Um velho conhecido de Leon, dado como morto anos antes, também está nas redondezas do vilarejo. Foi ele o responsável por levar Ashley ao seu cativeiro, porém sua lealdade aos Los Illuminados é questionada, já que ele aparentemente está envolvido com outras pessoas.
+
+        </h3>
+        </article>
+    </main>
+    <br/>
+    <br/>
+    <section id="sessao_2">
+        <div class="divisao">
+
+            <h2>Fanpage criada apenas para interação, sem fins  comerciais.</h2>
+            <p>Para aprender mais sobre o jogo, acesse nossa area de dicas:</p>
+            <img src="fecha.jpg" width="400px" height="400px" src="pag2.html"></iframe>
+            <p><a href="pag2.html">DICAS E MACETES</a></p>
+        </div>
+        <br>
+        <div>
+            
+    </section>
+    <section id="contato">
+        <h2>Entre em contato</h2>
+        <p>Preencha o formulário abaixo para poder entrar em contato!</p>
+        <form method="get">
+            <div>
+                <span>Nome:</span>
+                <input type="text" name="nome">
+            </div>
+            <div>
+                <span>Email:</span>
+                <input type="email" name="email">
+            </div>
+            <div>
+                <span>Mensagem:</span>
+                <textarea></textarea>
+            </div>
+            <div>
+                <input type="submit" value="enviar">
+            </div>
+        </form>
+    </section>
+
+    <footer>
+        <p>Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
